@@ -12,3 +12,4 @@ This directory is strictly untracked. It is intended for private R&D, one-off ex
 Subdirectories like `archive/`, `clients/`, and `private/` keep the main development tree clean.
 
 ## Summary
+Separating `github/` from `local/` transforms the workstation into a structured state machine, dramatically improving human-AI pair programming.
